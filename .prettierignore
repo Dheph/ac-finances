@@ -1,0 +1,10 @@
+.expo
+.expo-shared
+.git
+.github
+README.md
+node_modules
+android
+e2e
+ios
+src/@types
