@@ -97,7 +97,7 @@ Nosso projeto também conta com <a target="_blank"  href="https://github.com/typ
 
 - `yarn gpc`: Executa o yarn format e adiciona as alterações com git add
 
-- - `yarn test`: Executa os testes em geral
+- `yarn test`: Executa os testes em geral
 
   
 
