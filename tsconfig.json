@@ -1,6 +1,8 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
     "strict": true,
     "allowJs": true,
     "jsx": "react-native",
@@ -18,11 +20,13 @@
       "*": ["./*"],
       "@root/*": ["./*"],
       "@src/*": ["./src"],
-      "@components/*": ["./src/components/*"],
+      "@components/*": ["./src/components/*", "./src/components/index.tsx"],
+      "@context/*": ["./src/context/*"],
       "@services/*": ["./src/services/*"],
       "@errors/*": ["./src/errors/*"],
-      "@assets/*": ["./src/assets/*"],
+      "@assets/*": ["./src/assets/*", "./src/assets/index.tsx"],
       "@pages/*": ["./src/pages/*"],
+      "@utils/*": ["./src/utils/*"],
       "@theme/*": ["./src/theme/index.ts", "./src/theme/*"]
     }
   },
