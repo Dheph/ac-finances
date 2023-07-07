@@ -200,6 +200,6 @@ com alertas de acordo com a escolha do usuário.
 
 Algumas decisões não seriam tomadas caso estivesse trabalhando com um backend robusto, onde iria conter as principais regras de negocio fazendo com que eu não precisa-se adiciona-las no front, uma das decisões esta no services como o **postTransactionService**  onde eu atualizo de acordo com o tipo de transação, faço a atualização do valor total e todos os calculos, além dos refreshs da página.
 
-as rotas a mais e os ternários só existem para poder facilitar na hora das chamadas na mockapi.
+as rotas a extras e os ternários só existem para poder facilitar na hora das chamadas na mockapi.
 
 <img src="https://github.com/Dheph/ac-finances/assets/51960639/c5759fd9-4449-421f-b027-2d812683b256" />
