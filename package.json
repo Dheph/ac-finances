@@ -12,14 +12,28 @@
     "gpc": "yarn format && git add . && git status"
   },
   "dependencies": {
+    "@expo-google-fonts/roboto": "^0.2.3",
+    "@react-native-async-storage/async-storage": "^1.19.0",
     "@types/styled-components-react-native": "^5.2.1",
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
     "expo": "~48.0.18",
+    "expo-app-loading": "^2.1.1",
+    "expo-linear-gradient": "~12.1.2",
+    "expo-localization": "~14.1.1",
     "expo-status-bar": "~1.4.4",
+    "expo-updates": "~0.16.4",
+    "formik": "^2.4.2",
+    "moti": "^0.25.3",
     "react": "18.2.0",
     "react-native": "0.71.8",
     "react-native-dotenv": "^3.4.9",
-    "react-native-reanimated": "^3.3.0",
-    "styled-components": "^6.0.2"
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "styled-components": "^6.0.2",
+    "yup": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
