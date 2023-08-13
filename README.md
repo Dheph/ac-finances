@@ -12,6 +12,11 @@ Bem Vindo a o Repositório do App Android da AC Finances
 
 </h3> 
 
+# Índice 
+
+* [Comandos](#comandos)
+  
+
 <p  align="center">
 
 <a  target="_blank"  href="https://reactnative.dev/">
@@ -28,7 +33,7 @@ Bem Vindo a o Repositório do App Android da AC Finances
 
 </p>
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 Projeto consiste em um app mobile de controle de finanças, onde você pode realizar os lançamentos de despesas e receitas.
 
@@ -79,7 +84,7 @@ Nosso projeto também conta com <a target="_blank"  href="https://github.com/typ
 - **[Expo](https://docs.expo.dev/)**
 
 
-## 🔎 Comandos
+## Comandos
 
   
 
